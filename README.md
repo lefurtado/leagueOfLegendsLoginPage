@@ -1,6 +1,7 @@
 # League of Legends login page
 A responsive login page of League of Legends utilizing HTML5, CCS3 and Javascript
 
+link of the site: https://leagueoflegendsloginpage.netlify.app/
 
 Desktop View
 								
